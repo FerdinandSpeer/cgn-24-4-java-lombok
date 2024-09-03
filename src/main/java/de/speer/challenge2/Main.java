@@ -34,6 +34,7 @@ public class Main {
         System.out.println(klasse1);
         System.out.println(berthold);
         System.out.println(List.of(hans, wurst));
+
     }
 
 }
